@@ -11,3 +11,6 @@ RU:
 Link / Ссылка:
 
 https://raw.githubusercontent.com/3inker/ZeroOmega-Backup/refs/heads/main/ZeroOmegaOptions.bak
+
+
+![Alt text](readme-files/screenshot.jpg)
