@@ -2,9 +2,11 @@ EN:
 
 Copy the link and paste it into the "Restore from online" field.
 
+
 RU:
 
 Скопировать ссылку и вставить в поле "Restore from online".
+
 
 Link / Ссылка:
 
