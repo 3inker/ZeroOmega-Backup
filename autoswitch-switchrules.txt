@@ -292,6 +292,7 @@
 *.wix.com +TOR
 @note twitch quality
 *.usher.ttvnw.net +TOR
+*.gql.twitch.tv +TOR
 @note 2ip.io/2ip.ru
 *.2ip.ru +TOR
 *.2ip.io +TOR
@@ -380,5 +381,37 @@
 *.speedtestcustom.com +TOR
 *.webtest.net +TOR
 *.speedtest.net.cdn.cloudflare.net +TOR
+@note telegram
+*.cdn-telegram.org +TOR
+*.comments.app +TOR
+*.contest.com +TOR
+*.fragment.com +TOR
+*.graph.org +TOR
+*.quiz.directory +TOR
+*.t.me +TOR
+*.tdesktop.com +TOR
+*.telega.one +TOR
+*.telegra.ph +TOR
+*.telegram-cdn.org +TOR
+*.telegram.dog +TOR
+*.telegram.me +TOR
+*.telegram.org +TOR
+*.telegram.space +TOR
+*.telesco.pe +TOR
+*.tg.dev +TOR
+*.tx.me +TOR
+*.usercontent.dev +TOR
+*.easylist-downloads.adblockplus.org +TOR
+*.case-battle.store +TOR
+*.1337x.to +TOR
+*.1337x.gd +TOR
+*.1337x.is +TOR
+*.1337x.st +TOR
+*.1337x.tw +TOR
+*.1337xto.to +TOR
+*.1337xx.to +TOR
+*.x1337x.eu +TOR
+*.x1337x.se +TOR
+*.x1337x.ws +TOR
 
 * +direct
