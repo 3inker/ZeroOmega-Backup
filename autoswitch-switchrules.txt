@@ -403,6 +403,7 @@
 *.usercontent.dev +TOR
 *.easylist-downloads.adblockplus.org +TOR
 *.case-battle.store +TOR
+@note 1337x.to
 *.1337x.to +TOR
 *.1337x.gd +TOR
 *.1337x.is +TOR
@@ -413,5 +414,18 @@
 *.x1337x.eu +TOR
 *.x1337x.se +TOR
 *.x1337x.ws +TOR
+@note oracle
+*.ateam-oracle.com +TOR
+*.bronto.com +TOR
+*.covid19-rx.org +TOR
+*.covid19rx.org +TOR
+*.oracle.com +TOR
+*.oraclecloud.com +TOR
+*.oraclefoundation.org +TOR
+*.oracleimg.com +TOR
+*.oracleinfinity.io +TOR
+*.sun.com +TOR
+*.virtualbox.org +TOR
+*.oracleapex.com +TOR
 
 * +direct
