@@ -30,6 +30,7 @@
 *.discord.co +VLESS
 *.discord.app +VLESS
 @note youtube
+*.ajay.app +VLESS
 *.ggpht.cn@cn +VLESS
 *.ggpht.com +VLESS
 *.googlevideo.com +VLESS
@@ -382,6 +383,7 @@
 *.speedtestcustom.com +VLESS
 *.webtest.net +VLESS
 *.speedtest.net.cdn.cloudflare.net +VLESS
+*.ookla-speedtest-central.hgconair.hgc.com.hk +VLESS
 @note telegram
 *.cdn-telegram.org +VLESS
 *.comments.app +VLESS
@@ -447,5 +449,9 @@
 *.claude.com +VLESS
 *.claudemcpclient.com +VLESS
 *.claudeusercontent.com +VLESS
+*.online-fix.me +VLESS
+*.rootz.so +VLESS
+*.hentaicdn.org +VLESS
+*.hentailib.me +VLESS
 
 * +direct
